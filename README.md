@@ -15,7 +15,6 @@ In Laravel we build our logic and database, with connecting with nodejs API for 
 ### you need first to install vuejs from these steps:
 ### - install nodejs in system
 ### - install vuejs with steps on this link: https://learn.microsoft.com/en-us/windows/dev-environment/javascript/vue-on-windows
-```
 ``````
 ## Project setup after pull from thes repo
 ```
