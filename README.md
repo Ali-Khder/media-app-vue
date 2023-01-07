@@ -43,5 +43,8 @@ https://github.com/Ali-Khder/media-app-laravel
 ### NestJs
 https://github.com/Ali-Khder/media-app-nestjs
 
+# Note
+### The url configuration with server is in (src/store/index)
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
